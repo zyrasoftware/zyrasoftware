@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BLUE&width=435&lines=Hi%2C+I'm+Ervel;Back-end+Developer;Building+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BLUE&width=435&lines=Hi%2C+I'm+zyra;Cpp+Developer;Building+Projects)](https://git.io/typing-svg)
 
 ## About Me
 zyrasoftware shares C++ projects with more than 7 months of C++ experience.
