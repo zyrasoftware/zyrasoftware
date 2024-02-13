@@ -1,16 +1,15 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BLUE&width=435&lines=Hi%2C+I'm+Ervel;Back-end+Developer;Building+Projects)](https://git.io/typing-svg)
 
-<!--
-**zyrasoftware/zyrasoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+zyrasoftware shares C++ projects with more than 7 months of C++ experience.
 
-Here are some ideas to get you started:
+<div align="center">
+    <a href="https://discord.com/users/754068065959805088">
+  <img src="https://lanyard-profile-readme.vercel.app/api/754068065959805088"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+<img src="https://img.shields.io/badge/cpp%20-%23323330.svg?&style=for-the-badge&logo=cpp&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-C sharp-43853d?style=for-the-badge&logo=C sharp&logoColor=white">
+
+I have a strong desire to develop projects that can benefit a large number of people, and I strive to create unique features that set my projects apart from others. I believe that by providing something new and innovative, I can make a positive impact and leave a lasting impression on users.
