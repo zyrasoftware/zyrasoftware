@@ -28,8 +28,10 @@ Passionate software developer with expertise in modern web technologies and syst
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyrasoftware&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zyrasoftware&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyrasoftware&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zyrasoftware&layout=compact&theme=radical&langs_count=8)
+
 
 ## 🔥 Current Focus
 
